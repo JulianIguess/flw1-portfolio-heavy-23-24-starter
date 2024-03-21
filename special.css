@@ -1,0 +1,86 @@
+/* Add flexbox to the navbars. */
+
+/* Format the size of all images. */
+
+/* Style the font color. */
+
+/* Style the background with a color or image. */
+
+/* Adjust the spacing of your page. */
+
+/* Adjust the positioning of your page.  */
+
+
+* {
+    box-sizing: border-box;
+  }
+
+
+
+  body {
+    background:black;
+    background-size:144px;
+    padding: 20px;
+    font-family: Arial;
+  }
+nav{
+background-color: #272b30;
+padding: 12px;
+border-radius: 12px;
+}
+    
+  .heading{
+    background-color: #373738;
+    color: #efeff2;
+    padding: 2em;
+  }
+  
+  .main {
+    max-width: 1000px;
+    margin: auto;
+  }
+  
+  h1 {
+    font-size: 50px;
+    word-break: break-all;
+  }
+  
+  .content {
+    background-color: #272b30;
+    margin: 20px;
+    padding: 10px;
+    color: white;
+  }
+
+.message{
+  background-color: #272b30;
+  margin: 20px;
+  padding: 10px;
+  color: white;
+}
+
+button{
+  border: none;
+  outline: none;
+  padding: 12px 16px;
+  background-color: white;
+  cursor: pointer;
+  margin-right: 20px;
+}
+
+
+.choice{
+  display:none;
+}
+
+.button-case{
+  display:none;
+}
+
+.reward{
+  background-color: #272b30;
+  margin: 20px;
+  padding: 10px;
+  color: white;
+  display:none;
+}

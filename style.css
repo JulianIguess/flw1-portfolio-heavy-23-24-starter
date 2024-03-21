@@ -16,7 +16,7 @@
   }
   
   body {
-    background-color: #f9d60e;
+    background-color:#000000;
     padding: 20px;
     font-family: Arial;
   }
@@ -24,7 +24,7 @@
   .heading{
     background-color: #373738;
     color: #efeff2;
-    padding: 1em;
+    padding: 2em;
   }
   
   .main {
@@ -44,7 +44,6 @@
     color: white;
   }
 
-
   .btn {
     border: none;
     outline: none;
@@ -56,8 +55,8 @@
   
   nav {
     background-color: #272b30;
-    padding: 10px;
-    border-radius: 10px;
+    padding: 12px;
+    border-radius: 12px;
   }
   
   footer {
@@ -69,4 +68,8 @@
     border-radius: 10px;
   
   }
-  
+
+  .me{
+    
+  }
+
